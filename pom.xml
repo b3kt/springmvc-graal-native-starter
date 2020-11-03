@@ -119,6 +119,7 @@
 						--allow-incomplete-classpath 
 						--report-unsupported-elements-at-runtime 
 						-H:+ReportExceptionStackTraces 
+						-H:Name=demo-mvc-0.0.1-SNAPSHOT
 						--no-server 
 						-Ddebug=true
 						--initialize-at-build-time=org.reactivestreams.Publisher 
